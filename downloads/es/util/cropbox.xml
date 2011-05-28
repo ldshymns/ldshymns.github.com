@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cropbox-data>
+  <file src="Him_000_PrologoDeLaPrimeraPresidencia_spa.pdf">
+    <cropbox data="0 0 612 792" />
+    <cropbox data="0 0 612 792" />
+  </file>
+  <file src="Him_001_YaRomAlb_spa.pdf">
+    <cropbox data="112 95 500 708" />
+  </file>
+  <file src="Him_002_ElEspDios_spa.pdf">
+    <cropbox data="112 110 500 708" />
+    <cropbox data="112 120 500 670 " />
+  </file>
+  <file src="Him_003_YaRego_spa.pdf">
+    <cropbox data=" 112 130 500 708 " />
+    <cropbox data=" 112 75 500 670 " />
+  </file>
+  <file src="Him_004_BandSion_spa.pdf">
+    <cropbox data="112 110 500 708" />
+  </file>
+  <file src="Him_005_OhDiosIsra_spa.pdf">
+    <cropbox data="112 80 500 708" />
+  </file>
+  <file src="Him_006_IsraJesuLlam_spa.pdf">
+    <cropbox data="112 108 500 708" />
+  </file>
+  <file src="Him_007_IdVosoMens_spa.pdf">
+    <cropbox data="112 165 500 708" />
+  </file>
+  <file src="Him_008_QueVierAltu_spa.pdf">
+    <cropbox data="112 220 500 708" />
+    <cropbox data="112 185 500 675" />
+  </file>
+  <file src="Him_009_UnAngeSeno_spa.pdf">
+    <cropbox data="112 202 500 708" />
+    <cropbox data="112 230 500 670" />
+  </file>
+  <file src="Him_010_TeDamoSenoGrac_spa.pdf">
+    <cropbox data="112 190 500 708" />
+    <cropbox data="112 170 500 670" />
+  </file>
+  <file src="Him_011_DiosMandProf_spa.pdf">
+    <cropbox data="112 210 500 708" />
+    <cropbox data="112 167 500 670" />
+  </file>
+  <file src="Him_012_PediHoyPorTi_spa.pdf">
+    <cropbox data="112 130 500 708" />
+  </file>
+  <file src="Him_013_BendDiosNuesProf_spa.pdf">
+    <cropbox data="112 220 500 708" />
+  </file>
+  <file src="Him_014_LaOracProf_spa.pdf">
+    <cropbox data="112 220 500 708" />
+    <cropbox data="112 185 500 670" />
+  </file>
+  <file src="Him_015_LoorAlProf_spa.pdf">
+    <cropbox data="112 208 500 708" />
+    <cropbox data="112 220 500 670" />
+  </file>
+  <file src="Him_016_UnPobrFore_spa.pdf">
+    <cropbox data="112 90 500 708" />
+    <cropbox data="112 230 500 670" />
+  </file>
+  <file src="Him_017_OhEstaToBien_spa.pdf">
+    <cropbox data="112 222 500 708" />
+    <cropbox data="112 200 500 670" />
+  </file>
+  <file src="Him_018_OhSionSantLibe_spa.pdf">
+    <cropbox data="112 220 500 708" />
+    <cropbox data="112 188 500 670" />
+  </file>
+  <file src="Him_019_PorTusDonLooCant_spa.pdf">
+    <cropbox data="112 112 500 708" />
+  </file>
+  <file src="Him_020_GozoDiaLlegYa_spa.pdf">
+    <cropbox data="112 205 500 708" />
+  </file>
+  <file src="Him_021_SalvSionEsTuDiaIlus_spa.pdf">
+    <cropbox data="112 89 500 708" />
+  </file>
+  <file src="Him_022_EnCumbDeMont_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_023_BellaSion_spa.pdf">
+    <cropbox data="112 188 500 708" />
+    <cropbox data="112 220 500 670" />
+  </file>
+  <file src="Him_024_ElAlbaYaRomp_spa.pdf">
+    <cropbox data="112 110 500 708" />
+    <cropbox data="112 140 500 685" />
+  </file>
+  <file src="Him_025_JehoAparSuGlor_spa.pdf">
+    <cropbox data="112 215 500 708" />
+    <cropbox data="112 190 500 670" />
+  </file>
+  <file src="Him_026_HijoDelSenorVeni_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_027_OhReyDeReyeVen_spa.pdf">
+    <cropbox data="112 98 500 708" />
+  </file>
+  <file src="Him_028_HimBataRepu_spa.pdf">
+    <cropbox data="112 196 500 708" />
+    <cropbox data="112 225 500 670" />
+  </file>
+  <file src="Him_029_VenOhDiaProm_spa.pdf">
+    <cropbox data="112 85 500 708" />
+  </file>
+  <file src="Him_030_ACrisReyJesus_spa.pdf">
+    <cropbox data="112 145 500 708" />
+  </file>
+  <file src="Him_031_OhCreaDelSenor_spa.pdf">
+    <cropbox data="112 178 500 708" />
+    <cropbox data="112 210 500 670" />
+  </file>
+  <file src="Him_032_BaluFirmNuesDios_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_033_HonoLoorGlor_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_034_OhSantDiosOmnpSer_spa.pdf">
+    <cropbox data="112 110 500 708" />
+  </file>
+  <file src="Him_035_HaznPensTiSenor_spa.pdf">
+    <cropbox data="112 110 500 708" />
+  </file>
+  <file src="Him_036_PadrBendVeniATi_spa.pdf">
+    <cropbox data="112 115 500 708" />
+    <cropbox data="112 562 500 700" />
+  </file>
+  <file src="Him_037_GlorCantDios_spa.pdf">
+    <cropbox data="112 95 500 550" />
+  </file>
+  <file src="Him_038_SantAvan_spa.pdf">
+    <cropbox data="112 135 500 708" />
+  </file>
+  <file src="Him_039_JehoSeNuesGuia_spa.pdf">
+    <cropbox data="112 97 500 708" />
+  </file>
+  <file src="Him_040_QueFirmCimi_spa.pdf">
+    <cropbox data="112 130 500 708" />
+    <cropbox data="112 202 500 670" />
+  </file>
+  <file src="Him_041_GrandEresTu_spa.pdf">
+    <cropbox data="112 95 500 708" />
+    <cropbox data="112 236 500 670" />
+  </file>
+  <file src="Him_042_JesusEsMiLuz_spa.pdf">
+    <cropbox data="112 134 500 708" />
+    <cropbox data="112 553 500 690" />
+  </file>
+  <file src="Him_043_PorLaBellTerre_spa.pdf">
+    <cropbox data="112 82 500 530" />
+  </file>
+  <file src="Him_044_ElSublCrea_spa.pdf">
+    <cropbox data="112 97 500 708" />
+  </file>
+  <file src="Him_045_OracDeGrat_spa.pdf">
+    <cropbox data="112 96 500 708" />
+  </file>
+  <file src="Him_046_ElevNuesHimn_spa.pdf">
+    <cropbox data="112 128 500 708" />
+  </file>
+  <file src="Him_047_CaroNinoDiosAma_spa.pdf">
+    <cropbox data="112 118 500 708" />
+  </file>
+  <file src="Him_048_DiviLuz_spa.pdf">
+    <cropbox data="112 100 500 708" />
+  </file>
+  <file src="Him_049_SenorTeNece_spa.pdf">
+    <cropbox data="112 100 500 708" />
+  </file>
+  <file src="Him_050_MasCercDiosTi_spa.pdf">
+    <cropbox data="112 133 500 708" />
+    <cropbox data="112 582 500 670" />
+  </file>
+  <file src="Him_051_GuiaOhSalv_spa.pdf">
+    <cropbox data="112 89 500 573" />
+    <cropbox data="0.0 564.47998 612.0 792.0" />
+    <cropbox data="112 89 500 573" />
+  </file>
+  <file src="Him_052_GuiaATi_spa.pdf">
+    <cropbox data="112 99 500 708" />
+  </file>
+  <file src="Him_053_OhJesuMiGranAmor_spa.pdf">
+    <cropbox data="112 99 500 708" />
+  </file>
+  <file src="Him_054_PazCalm_spa.pdf">
+    <cropbox data="112 108 500 708" />
+    <cropbox data="112 83 500 670" />
+  </file>
+  <file src="Him_055_DiosDaValo_spa.pdf">
+    <cropbox data="112 93 500 708" />
+  </file>
+  <file src="Him_056_JehoMiPastEs_spa.pdf">
+    <cropbox data="112 96 500 708" />
+  </file>
+  <file src="Him_057_ElAmorSalv_spa.pdf">
+    <cropbox data="112 93 500 708" />
+  </file>
+  <file src="Him_058_RocaDeEter_spa.pdf">
+    <cropbox data="112 210 500 708" />
+  </file>
+  <file src="Him_059_MiraAlSalv_spa.pdf">
+    <cropbox data="112 95 500 708" />
+    <cropbox data="112 574 500 670" />
+  </file>
+  <file src="Him_060_VeniACristo_spa.pdf">
+    <cropbox data="112 90 500 560" />
+  </file>
+  <file src="Him_061_VeniAMi_spa.pdf">
+    <cropbox data="112 166 500 708" />
+  </file>
+  <file src="Him_062_NoDesmOSant_spa.pdf">
+    <cropbox data="112 97 500 708" />
+  </file>
+  <file src="Him_063_AunqColmPesa_spa.pdf">
+    <cropbox data="112 91 500 708" />
+    <cropbox data="112 496 500 670" />
+  </file>
+  <file src="Him_064_VeniLQueADiosAmai_spa.pdf">
+    <cropbox data="112 104 500 458" />
+  </file>
+  <file src="Him_065_SinCont_spa.pdf">
+    <cropbox data="0 0 612 792" />
+    <cropbox data="0.0 534.23999 612.0 792.0" />
+    <cropbox data="0.0 0.0 612.0 549.0" />
+  </file>
+  <file src="Him_066_CuanDulcLeyDios_spa.pdf">
+    <cropbox data="112 87 500 545" />
+  </file>
+  <file src="Him_067_SiViaEsPeno_spa.pdf">
+    <cropbox data="112 203 500 708" />
+    <cropbox data="112 170 500 670" />
+  </file>
+  <file src="Him_068_LaFe_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_069_DondHallSola_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_070_SeHumi_spa.pdf">
+    <cropbox data="112 110 500 708" />
+  </file>
+  <file src="Him_071_MasSantDame_spa.pdf">
+    <cropbox data="112 105 500 708" />
+  </file>
+  <file src="Him_072_CreoEnCris_spa.pdf">
+    <cropbox data="112 170 500 708" />
+    <cropbox data="112 133 500 670" />
+  </file>
+  <file src="Him_073_YoSeViveMSeno_spa.pdf">
+    <cropbox data="112 94 500 708" />
+    <cropbox data="112 398 500 703" />
+    <cropbox data="112 398 500 703" />
+  </file>
+  <file src="Him_074_ViveMSeno_spa.pdf">
+    <cropbox data="112 387 500 704" />
+  </file>
+  <file src="Him_075_Testimonio_spa.pdf">
+    <cropbox data="112 357 500 708" />
+  </file>
+  <file src="Him_076_TanSoloPensTi_spa.pdf">
+    <cropbox data="112 358 500 704" />
+  </file>
+  <file src="Him_077_DejaQEspiTEnse_spa.pdf">
+    <cropbox data="112 353 500 708" />
+  </file>
+  <file src="Him_078_ODulcGratOrac_spa.pdf">
+    <cropbox data="112 195 500 708" />
+    <cropbox data="112 162 500 670" />
+  </file>
+  <file src="Him_079_LaOracDelAlmEs_spa.pdf">
+    <cropbox data="112 85 500 708" />
+  </file>
+  <file src="Him_080_SecrOrac_spa.pdf">
+    <cropbox data="112 103 500 708" />
+  </file>
+  <file src="Him_081_PensOrar_spa.pdf">
+    <cropbox data="112 150 500 708" />
+    <cropbox data="112 541 500 680" />
+  </file>
+  <file src="Him_082_PadrEnLCiel_spa.pdf">
+    <cropbox data="112 88 500 537" />
+    <cropbox data="0.0 525.600037 612.0 792.0" />
+    <cropbox data="112 88 500 537" />
+  </file>
+  <file src="Him_083_EntoSagrSon_spa.pdf">
+    <cropbox data="112 88 500 708" />
+  </file>
+  <file src="Him_084_DulcTuObraSeno_spa.pdf">
+    <cropbox data="112 143 500 708" />
+  </file>
+  <file src="Him_085_DiaSantSeno_spa.pdf">
+    <cropbox data="112 134 500 708" />
+    <cropbox data="112 136 500 670" />
+  </file>
+  <file src="Him_086_NuesBondPadr_spa.pdf">
+    <cropbox data="112 88 500 708" />
+  </file>
+  <file src="Him_087_CualRociQDest_spa.pdf">
+    <cropbox data="112 88 500 708" />
+  </file>
+  <file src="Him_088_PlacNosETrab_spa.pdf">
+    <cropbox data="112 93 500 708" />
+    <cropbox data="112 208 500 670" />
+  </file>
+  <file src="Him_089_ParaSiemDiosEsVos_spa.pdf">
+    <cropbox data="112 113 500 708" />
+    <cropbox data="112 437 500 704" />
+  </file>
+  <file src="Him_090_PadrAnteDPart_spa.pdf">
+    <cropbox data="112 78 500 428" />
+  </file>
+  <file src="Him_091_AlPartCant_spa.pdf">
+    <cropbox data="112 85 500 708" />
+  </file>
+  <file src="Him_092_HemoSentTuAmor_spa.pdf">
+    <cropbox data="112 215 500 708" />
+  </file>
+  <file src="Him_093_ATiSenor_spa.pdf">
+    <cropbox data="112 101 500 708" />
+    <cropbox data="112 389 500 705" />
+  </file>
+  <file src="Him_094_YaTermEDia_spa.pdf">
+    <cropbox data="112 80 500 380" />
+  </file>
+  <file src="Him_095_EFuegDEspi_spa.pdf">
+    <cropbox data="112 145 500 708" />
+  </file>
+  <file src="Him_096_EOcasVienYa_spa.pdf">
+    <cropbox data="112 417 500 708" />
+  </file>
+  <file src="Him_097_AnteTiSenoTuGrey_spa.pdf">
+    <cropbox data="112 383 500 708" />
+  </file>
+  <file src="Him_098_ConmQuedSeno_spa.pdf">
+    <cropbox data="112 118 500 708" />
+    <cropbox data="112 545 500 687" />
+  </file>
+  <file src="Him_099_Acomp_spa.pdf">
+    <cropbox data="112 230 500 677" />
+  </file>
+  <file src="Him_100_DiosBend_spa.pdf">
+    <cropbox data="112 108 500 708" />
+  </file>
+  <file src="Him_101_DiosEscuOrar_spa.pdf">
+    <cropbox data="112 198 500 708" />
+  </file>
+  <file src="Him_102_HoyCHumiTPido_spa.pdf">
+    <cropbox data="112 118 500 708" />
+  </file>
+  <file src="Him_103_LSantCena_spa.pdf">
+    <cropbox data="112 182 500 708" />
+  </file>
+  <file src="Him_104_ODiosEterPadr_spa.pdf">
+    <cropbox data="112 88 500 708" />
+  </file>
+  <file src="Him_105_JesuDNaza_spa.pdf">
+    <cropbox data="112 112 500 708" />
+  </file>
+  <file src="Him_106_CuanGratECantLoor_spa.pdf">
+    <cropbox data="112 127 500 708" />
+    <cropbox data="112 526 500 672" />
+  </file>
+  <file src="Him_107_PediTuEspi_spa.pdf">
+    <cropbox data="112 128 500 510" />
+  </file>
+  <file src="Him_108_MansReveHoy_spa.pdf">
+    <cropbox data="112 98 500 708" />
+  </file>
+  <file src="Him_109_CantTodAJesu_spa.pdf">
+    <cropbox data="112 216 500 708" />
+  </file>
+  <file src="Him_110_EnMemoDTMuer_spa.pdf">
+    <cropbox data="112 88 500 708" />
+    <cropbox data="112 503 500 676" />
+  </file>
+  <file src="Him_111_EECalvELCruz_spa.pdf">
+    <cropbox data="112 346 500 675" />
+  </file>
+  <file src="Him_112_EPadrTantNosAmo_spa.pdf">
+    <cropbox data="112 136 500 708" />
+  </file>
+  <file src="Him_113_YaNosJuntOtrVez_spa.pdf">
+    <cropbox data="112 187 500 708" />
+  </file>
+  <file src="Him_114_CrisERedeMuri_spa.pdf">
+    <cropbox data="112 99 500 708" />
+  </file>
+  <file src="Him_115_NosReunPadrHoy_spa.pdf">
+    <cropbox data="112 205 500 708" />
+  </file>
+  <file src="Him_116_JesuELCortCele_spa.pdf">
+    <cropbox data="112 125 500 708" />
+  </file>
+  <file src="Him_117_MuriERedeMuri_spa.pdf">
+    <cropbox data="112 194 500 708" />
+  </file>
+  <file src="Him_118_AsomMeDa_spa.pdf">
+    <cropbox data="112 100 500 708" />
+    <cropbox data="112 446 500 670" />
+  </file>
+  <file src="Him_119_EULejaCerrFue_spa.pdf">
+    <cropbox data="112 88 500 430" />
+  </file>
+  <file src="Him_120_TanHumiANace_spa.pdf">
+    <cropbox data="112 205 500 708" />
+  </file>
+  <file src="Him_121_HimnDLPascDResu_spa.pdf">
+    <cropbox data="112 95 500 708" />
+  </file>
+  <file src="Him_122_CrisHaResu_spa.pdf">
+    <cropbox data="112 85 500 708" />
+  </file>
+  <file src="Him_123_RegoJesuNaci_spa.pdf">
+    <cropbox data="112 85 500 708" />
+  </file>
+  <file src="Him_124_VeniAdor_spa.pdf">
+    <cropbox data="112 96 500 708" />
+  </file>
+  <file src="Him_125_JesuEPese_spa.pdf">
+    <cropbox data="112 95 500 708" />
+  </file>
+  <file src="Him_126_CantSantange_spa.pdf">
+    <cropbox data="112 88 500 708" />
+    <cropbox data="112 544 500 704" />
+  </file>
+  <file src="Him_127_NochDLuz_spa.pdf">
+    <cropbox data="112 85 500 530" />
+    <cropbox data="112 85 500 530" />
+    <cropbox data="112 85 500 530" />
+  </file>
+  <file src="Him_128_AMediSeOyo_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_129_OPuebDBele_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_130_EscuESTriu_spa.pdf">
+    <cropbox data="112 130 500 708" />
+    <cropbox data="112 535 500 674" />
+  </file>
+  <file src="Him_131_AsomDioALMagos_spa.pdf">
+    <cropbox data="112 88 500 527" />
+  </file>
+  <file src="Him_132_LaPrimNavi_spa.pdf">
+    <cropbox data="112 106 500 708" />
+    <cropbox data="112 563 500 704" />
+  </file>
+  <file src="Him_133_CampDNavi_spa.pdf">
+    <cropbox data="112 82 500 565" />
+  </file>
+  <file src="Him_134_EnLJudeTierDios_spa.pdf">
+    <cropbox data="112 82 500 708" />
+  </file>
+  <file src="Him_135_HoySembLSemi_spa.pdf">
+    <cropbox data="112 82 500 708" />
+  </file>
+  <file src="Him_136_TodoLosSant_spa.pdf">
+    <cropbox data="112 114 500 708" />
+    <cropbox data="112 98 500 678" />
+  </file>
+  <file src="Him_137_TuMeHaDadMuchBendDios_spa.pdf">
+    <cropbox data="112 82 500 708" />
+  </file>
+  <file src="Him_138_SenoYoTeSegu_spa.pdf">
+    <cropbox data="112 190 500 708" />
+  </file>
+  <file src="Him_139_AmaEPastLOvej_spa.pdf">
+    <cropbox data="112 106 500 708" />
+    <cropbox data="112 432 500 674" />
+  </file>
+  <file src="Him_140_ADiosElPadrYJesu_spa.pdf">
+    <cropbox data="112 94 500 414" />
+  </file>
+  <file src="Him_141_EnEMundHeHecBien_spa.pdf">
+    <cropbox data="112 145 500 708" />
+    <cropbox data="112 109 500 670" />
+  </file>
+  <file src="Him_142_OtroAnoHaPasa_spa.pdf">
+    <cropbox data="112 216 500 708" />
+    <cropbox data="112 222 500 670" />
+  </file>
+  <file src="Him_143_ADiosOfreGozoCanc_spa.pdf">
+    <cropbox data="112 108 500 708" />
+    <cropbox data="112 112 500 670" />
+  </file>
+  <file src="Him_144_ALGlorMarc_spa.pdf">
+    <cropbox data="112 96 500 708" />
+  </file>
+  <file src="Him_145_LVozYaDEter_spa.pdf">
+    <cropbox data="112 96 500 708" />
+  </file>
+  <file src="Him_146_TengGozoEnMiAlmaHoy_spa.pdf">
+    <cropbox data="112 88 500 708" />
+  </file>
+  <file src="Him_147_RecoLDest_spa.pdf">
+    <cropbox data="112 88 500 708" />
+  </file>
+  <file src="Him_148_SiHayGozoETuCora_spa.pdf">
+    <cropbox data="112 222 500 708" />
+    <cropbox data="112 231 500 670" />
+  </file>
+  <file src="Him_149_TrabConFerv_spa.pdf">
+    <cropbox data="112 109 500 708" />
+    <cropbox data="112 209 500 670" />
+  </file>
+  <file src="Him_150_SiemGozo_spa.pdf">
+    <cropbox data="112 186 500 708" />
+    <cropbox data="112 306 500 670" />
+  </file>
+  <file src="Him_151_OhHablCTiernAcen_spa.pdf">
+    <cropbox data="112 96 500 708" />
+    <cropbox data="112 106 500 670" />
+  </file>
+  <file src="Him_152_NoHablCEnoj_spa.pdf">
+    <cropbox data="112 110 500 708" />
+  </file>
+  <file src="Him_153_OidElToquDeClar_spa.pdf">
+    <cropbox data="112 95 500 708" />
+  </file>
+  <file src="Him_154_HazTuLJust_spa.pdf">
+    <cropbox data="112 222 500 708" />
+    <cropbox data="112 227 500 670" />
+  </file>
+  <file src="Him_155_HazElBien_spa.pdf">
+    <cropbox data="112 116 500 708" />
+    <cropbox data="112 556 500 704" />
+  </file>
+  <file src="Him_156_SenoDelCielJeho_spa.pdf">
+    <cropbox data="112 94 500 540" />
+  </file>
+  <file src="Him_157_CuenTusBend_spa.pdf">
+    <cropbox data="112 204 500 708" />
+    <cropbox data="112 216 500 670" />
+  </file>
+  <file src="Him_158_TrabHoyLaObra_spa.pdf">
+    <cropbox data="112 106 500 708" />
+    <cropbox data="112 98 500 680" />
+  </file>
+  <file src="Him_159_CValoMarc_spa.pdf">
+    <cropbox data="112 98 500 708" />
+    <cropbox data="112 442 500 692" />
+  </file>
+  <file src="Him_160_TuCasaAmamDios_spa.pdf">
+    <cropbox data="112 344 500 675" />
+  </file>
+  <file src="Him_161_LlamAServ_spa.pdf">
+    <cropbox data="112 116 500 708" />
+    <cropbox data="112 102 500 676" />
+  </file>
+  <file src="Him_162_SomoLSold_spa.pdf">
+    <cropbox data="112 85 500 708" />
+    <cropbox data="112 92 500 670" />
+  </file>
+  <file src="Him_163_MiraRealHues_spa.pdf">
+    <cropbox data="112 108 500 708" />
+    <cropbox data="112 115 500 670" />
+  </file>
+  <file src="Him_164_PonTuHombLid_spa.pdf">
+    <cropbox data="112 128 500 708" />
+    <cropbox data="112 516 500 670" />
+  </file>
+  <file src="Him_165_TuPala_spa.pdf">
+    <cropbox data="112 305 500 675" />
+  </file>
+  <file src="Him_166_FirmCrecLaFe_spa.pdf">
+    <cropbox data="112 123 500 708" />
+    <cropbox data="112 157 500 670" />
+  </file>
+  <file src="Him_167_AVenc_spa.pdf">
+    <cropbox data="112 104 500 708" />
+    <cropbox data="112 112 500 670" />
+  </file>
+  <file src="Him_168_JuveDIsra_spa.pdf">
+    <cropbox data="112 106 500 708" />
+  </file>
+  <file src="Him_169_AlMundVePred_spa.pdf">
+    <cropbox data="112 85 500 708" />
+  </file>
+  <file src="Him_170_QuieSiguASeno_spa.pdf">
+    <cropbox data="112 177 500 708" />
+    <cropbox data="112 187 500 670" />
+  </file>
+  <file src="Him_171_LaLuzDLVerd_spa.pdf">
+    <cropbox data="112 112 500 708" />
+    <cropbox data="112 512 500 670" />
+  </file>
+  <file src="Him_172_CuanEnseATusHijo_spa.pdf">
+    <cropbox data="112 300 500 675" />
+  </file>
+  <file src="Him_173_ElFinSAcer_spa.pdf">
+    <cropbox data="112 82 500 708" />
+  </file>
+  <file src="Him_174_QueMaraTusObra_spa.pdf">
+    <cropbox data="112 90 500 708" />
+  </file>
+  <file src="Him_175_ADondMeMandIre_spa.pdf">
+    <cropbox data="112 132 500 708" />
+    <cropbox data="112 124 500 676" />
+  </file>
+  <file src="Him_176_PalaDAmor_spa.pdf">
+    <cropbox data="112 97 500 708" />
+  </file>
+  <file src="Him_177_QueELaVerd_spa.pdf">
+    <cropbox data="112 83 500 708" />
+  </file>
+  <file src="Him_178_NuesMentSRefl_spa.pdf">
+    <cropbox data="112 214 500 708" />
+    <cropbox data="112 228 500 670" />
+  </file>
+  <file src="Him_179_LaBarrDHier_spa.pdf">
+    <cropbox data="112 106 500 708" />
+  </file>
+  <file src="Him_180_ALeerLaEscr_spa.pdf">
+    <cropbox data="112 190 500 708" />
+  </file>
+  <file src="Him_181_CuanRayaENuevDia_spa.pdf">
+    <cropbox data="112 219 500 708" />
+    <cropbox data="112 190 500 670" />
+  </file>
+  <file src="Him_182_BienDiaSant_spa.pdf">
+    <cropbox data="112 200 500 708" />
+    <cropbox data="112 162 500 676" />
+  </file>
+  <file src="Him_183_SantTempDSion_spa.pdf">
+    <cropbox data="112 97 500 708" />
+  </file>
+  <file src="Him_184_IdOhSantALoTemp_spa.pdf">
+    <cropbox data="112 145 500 708" />
+  </file>
+  <file src="Him_185_ELoPostDias_spa.pdf">
+    <cropbox data="112 87 500 708" />
+  </file>
+  <file src="Him_186_VolvVuesCora_spa.pdf">
+    <cropbox data="112 151 500 708" />
+  </file>
+  <file src="Him_187_OhMiPadr_spa.pdf">
+    <cropbox data="112 142 500 708" />
+    <cropbox data="112 115 500 680" />
+  </file>
+  <file src="Him_188_QuieNosBrinSuAmor_spa.pdf">
+    <cropbox data="112 143 500 708" />
+  </file>
+  <file src="Him_189_OPadrLlenDAmor_spa.pdf">
+    <cropbox data="112 134 500 708" />
+  </file>
+  <file src="Him_190_HayUHogaEter_spa.pdf">
+    <cropbox data="112 139 500 708" />
+    <cropbox data="112 455 500 695" />
+  </file>
+  <file src="Him_191_ConMaraObraDios_spa.pdf">
+    <cropbox data="112 100 500 450" />
+  </file>
+  <file src="Him_192_PorQueSomo_spa.pdf">
+    <cropbox data="112 87 500 708" />
+  </file>
+  <file src="Him_193_EHogaEComoECiel_spa.pdf">
+    <cropbox data="112 88 500 708" />
+  </file>
+  <file src="Him_194_CuanHayAmor_spa.pdf">
+    <cropbox data="112 214 500 708" />
+    <cropbox data="112 181 500 670" />
+  </file>
+  <file src="Him_195_LFamiPuedSerEter_spa.pdf">
+    <cropbox data="112 132 500 708" />
+    <cropbox data="112 97 500 670" />
+  </file>
+  <file src="Him_196_SoyUHijoDDios_spa.pdf">
+    <cropbox data="112 140 500 708" />
+  </file>
+  <file src="Him_197_SiemObeLMand_spa.pdf">
+    <cropbox data="112 146 500 708" />
+  </file>
+  <file src="Him_198_HazmAndaELLuz_spa.pdf">
+    <cropbox data="112 204 500 708" />
+  </file>
+  <file src="Him_199_DiosVive_spa.pdf">
+    <cropbox data="112 194 500 708" />
+  </file>
+  <file src="Him_200_LaLuz_spa.pdf">
+    <cropbox data="112 106 500 708" />
+    <cropbox data="112 515 500 676" />
+  </file>
+  <file src="Him_201_DiosCuida_spa.pdf">
+    <cropbox data="112 326 500 675" />
+  </file>
+  <file src="Him_202_EnElPueblo_spa.pdf">
+    <cropbox data="112 91 500 708" />
+    <cropbox data="112 256 500 670" />
+  </file>
+  <file src="Him_203_Amad_spa.pdf">
+    <cropbox data="112 131 500 708" />
+  </file>
+  <file src="Him_204_Hijos_spa.pdf">
+    <cropbox data="112 143 500 708" />
+  </file>
+  <file src="Him_205_Sirvamos_spa.pdf">
+    <cropbox data="112 92 500 708" />
+  </file>
+  <file src="Him_206_VenLQTeneDDiosESace_spa.pdf">
+    <cropbox data="112 92 500 708" />
+  </file>
+  <file src="Him_207_OhVos_spa.pdf">
+    <cropbox data="112 79 500 708" />
+  </file>
+  <file src="Him_208_BrilRayDClem_spa.pdf">
+    <cropbox data="112 97 500 708" />
+  </file>
+  <file src="Him_209_OhElderes_spa.pdf">
+    <cropbox data="112 220 500 708" />
+    <cropbox data="112 178 500 670" />
+  </file>
+</cropbox-data>

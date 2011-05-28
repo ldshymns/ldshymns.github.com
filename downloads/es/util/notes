@@ -1,0 +1,20 @@
+65 file has hymn 66 in it (repeat)
+
+
+1. cropping files
+For each file, view with gv.  Use cursor to find cropbox coordinate.
+Change cropbox for each page, using the same right/left margins on all
+pages.  Reload to verify.
+
+(extract-cropbox.pl has functions to pull the crop info, and put it back)
+
+2. joining pages
+The autonup program will join the pages of those files which have 2 pages.
+It uses pdflatex to do so, accounting for the strangenesses in latex 
+nup function.
+
+Single pages are also run through pdflatex to cleanup the damage caused
+by changing the CropBoxes (mostly the pdf "index" doesn't point to the
+right bytes).
+
+3. Run makexml (check version) to create the upload config file.
